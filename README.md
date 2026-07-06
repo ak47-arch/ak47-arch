@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋
 
-<!--
-**ak47-arch/ak47-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full stack engineer moving towards applied AI.
 
-Here are some ideas to get you started:
+Open source believer. This is the golden age of personal and niche software — small tools, local models, and the freedom to build what matters.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Highly optimistic AI maxxist. Local AI for the win.
+
+---
+
+**What I'm building**
+
+Agentic pipelines. LLM infrastructure. ML data operations. Production systems that ship.
+
+Three public repos on my profile — feel free to browse the code, specs, and test suites.
+
+**What I believe**
+
+- Small, well-architected systems beat big frameworks
+- Local inference is the foundation of practical AI
+- Open source is how we learn together
+- The best time to build personal software is right now
